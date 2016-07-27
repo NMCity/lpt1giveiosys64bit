@@ -6,6 +6,3 @@ Download the working giveio.sys from [www.mikrocontroller.net](http://www.mikroc
 and copy install_giveio.bat in the directory as giveio.sys and run it as admin
 
 Tested with avrdude-6.3-mingw32 on windows 10 64-bit
-
-http://github.com - automatic!
-[GitHub](http://github.com)
